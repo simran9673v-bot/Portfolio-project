@@ -19,7 +19,7 @@ DATA ANALYST- PORTFOLIO
 
 ## AI usage
 
-I'm a beginner, so I used AI for a good chunk of the coding process — the background/visual ideas, debugging issues I ran into while building and structuring the project, and cleaning up the code into something readable. It also helped me in fixing my wrong codes, writing proper ones and draft the written parts, like this README.
+I'm a beginner, so I used AI for debugging issues I ran into while building and structuring the project, and cleaning up the code into something readable. It also helped me in fixing my wrong codes, writing proper ones and draft the written parts, like this README.
 
 ## Credits
 

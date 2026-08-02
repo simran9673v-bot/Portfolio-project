@@ -3,9 +3,6 @@ DATA ANALYST- PORTFOLIO
 
 **Live demo:** https://my-website-project-sta.netlify.app/
 
-
-Just open the link above — no install, no setup.
-
 ## Features
 
 - Animated intro screen with staggered fade-in on load
@@ -16,9 +13,6 @@ Just open the link above — no install, no setup.
 - Certifications section with direct links to view each certificate
 
 ## Run it locally
-
-No build tools or dependencies needed.
-
 1. Clone the repo:
 2. 2. Open `index.html` directly in a browser, or serve it with a tool like Live Server.
 

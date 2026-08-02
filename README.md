@@ -1,10 +1,32 @@
 DATA ANALYST- PORTFOLIO 
-Making a portfolio project with HTML and CSS showcasing my data analysis skills, certifications and projects
+ A personal portfolio site (just for demo not completed academic details) showcasing my data analytics projects, skills, and certifications, built from scratch with plain HTML and CSS.
+
+**Live demo:** https://my-website-project-sta.netlify.app/
 
 
-#####
-What I have done till now - 
-Intro animation (staggered fade in/out) 
-| Floating background blobs 
-| Header with quick links + 4-tab nav 
-#####
+Just open the link above — no install, no setup.
+
+## Features
+
+- Animated intro screen with staggered fade-in on load
+- Scrollable one-page layout with jump-to-section navigation
+- About Me section with a styled code-snippet card
+- Core Skills shown as a donut chart based on real project usage counts, not made-up percentages
+- Projects Matrix — click through 5 real projects, each with a live dashboard screenshot and tech stack
+- Certifications section with direct links to view each certificate
+
+## Run it locally
+
+No build tools or dependencies needed.
+
+1. Clone the repo:
+2. 2. Open `index.html` directly in a browser, or serve it with a tool like Live Server.
+
+
+## AI usage
+
+I'm a beginner, so I used AI (Claude) for a good chunk of the coding process — the background/visual ideas, debugging issues I ran into while building and structuring the project, and cleaning up the code into something readable. It also helped me draft the written parts, like devlogs and this README.
+
+## Credits
+
+Built as part of the Hack Club Stardance Challenge.
